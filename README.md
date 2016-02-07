@@ -1,3 +1,3 @@
 hello-world
 -----------
-Just doing the github tutorial here.
+Prints hello world to terminal
