@@ -1,2 +1,3 @@
-# hello-world
-Program that prints 'hello world' out
+hello-world
+-----------
+Just doing the github tutorial here.
